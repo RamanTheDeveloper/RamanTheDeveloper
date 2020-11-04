@@ -2,7 +2,7 @@
 
 ## I'm a young Software Engineer in the making!
 
-- 🔭 I have my first website online that I made for my [aunt's wedding] [website]
+- 🔭 I have my first website online that I made for my [aunt's wedding] [aunts-website]
 - 🌱 I’m trying to build real life projects
 - 👯 I’m looking to collaborate with other programmers and learn from each other
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="ramanthedeveloper.github.io" width="22px" src="https://ramanthedeveloper.github.io" />][website]
 [<img align="left" alt="Ramandeep Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -40,6 +40,7 @@
 <br />
 <br />
 
-[website]: https://jasminewedskuljeet.com
+[website]: https://ramanthedeveloper.github.io
+[aunts-website]: https://jasminewedskuljeet.com
 [instagram]: https://instagram.com/ramandeep_s25
 [linkedin]: https://www.linkedin.com/in/ramandeep-singh-536154161/
