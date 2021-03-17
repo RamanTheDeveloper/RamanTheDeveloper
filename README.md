@@ -2,7 +2,7 @@
 
 ## I'm a young Software Engineer in the making!
 
-- 🔭 I have my first website online that I made for my [aunt's wedding] [aunts-website]
+- 🔭 I have my first website online that I made for my [aunt's wedding] (not online anymore)
 - 🌱 I’m trying to build real life projects
 - 👯 I’m looking to collaborate with other programmers and learn from each other
 - 🥅 2020 Goals: Contribute more to Open Source projects
