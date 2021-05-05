@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ramanthedeveloper.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://ramanthedeveloper.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ramandeep Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[website]: https://ramanthedeveloper.github.io
+[website]: https://ramanthedeveloper.web.app/
 [aunts-website]: https://jasminewedskuljeet.com
 [instagram]: https://instagram.com/ramandeep_s25
 [linkedin]: https://www.linkedin.com/in/ramandeep-singh-536154161/
