@@ -6,12 +6,12 @@
 - 🌱 I’m trying to build real life projects
 - 👯 I’m looking to collaborate with other programmers and learn from each other
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I can solve a Rubik's cube in 20 seconds
+- ⚡ Fun fact: I can solve a Rubik's cube in 15 seconds
 
 
 ### Connect with me:
 
-[<img align="left" alt="https://ramanthedeveloper.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://portfolio-4b536.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ramandeep Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
