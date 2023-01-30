@@ -5,7 +5,7 @@
 - 🔭 I have my first website online that I made for my [aunt's wedding] (not online anymore)
 - 🌱 I’m trying to build real life projects
 - 👯 I’m looking to collaborate with other programmers and learn from each other
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can solve a Rubik's cube in 15 seconds
 
 
