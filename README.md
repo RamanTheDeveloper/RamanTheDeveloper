@@ -2,11 +2,11 @@
 
 ## I'm a young Software Engineer in the making!
 
-- 🔭 I have my first website online that I made for my [aunt's wedding] (not online anymore)
+- 🔭 I have my own portfolio website online https://portfolio-4b536.web.app/
 - 🌱 I’m trying to build real life projects
 - 👯 I’m looking to collaborate with other programmers and learn from each other
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I can solve a Rubik's cube in 13 seconds
+- 🥅 2026 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I can solve a Rubik's cube in 12 seconds
 
 
 ### Connect with me:
